@@ -29,4 +29,5 @@
 29: AC Range Update Range Max
 30: AC エラトステネス
 31: 未AC ★6
-32:
+32: AC 順列全探索
+33:
