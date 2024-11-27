@@ -67,7 +67,7 @@
 67: AC 進数変換
 68: AC クエリ先読み＋UnionFind
 69: AC modint
-70:
+70: AC 中央値
 71: 未AC ★7
 72:
 73:
